@@ -271,7 +271,7 @@ def build():
 	directory = r'E:\UE_Project\MyWorld_Maya\scenes\MuscleMan\guide\weights'
 	#weights_write=weights.write_skin(directory ,name= 'skin_weights',force = True)
 
-	#weight_read = weights.read_skin(directory ,weighes_file = 'skin_weights.json')
+	weight_read = weights.read_skin(directory ,weighes_file = 'skin_weights.json')
 
 
 	import rig_game.post.datalO.mocap as mocap
