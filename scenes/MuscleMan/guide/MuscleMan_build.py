@@ -234,7 +234,14 @@ def build():
 											part = 'switch',
 											ctrl_scale = 1)
 
-
+	angleDriven = Part.bulid_module(moudle_type = 'angleDriven',
+                                 part = 'angleDriven',
+                                 Shoulder = True,
+                                 Hip = True,
+								 Elbow = True,
+								 Wrist = True,
+								 Knee = True,
+								 Ankle = True)
 	'''for o in fw_list:
 		corrective = Part.bulid_module(moudle_type = 'corrective',
 									side = o,
