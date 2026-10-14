@@ -3617,7 +3617,7 @@
     <point index="2706" value="0.002"/>
     <point index="2731" value="0.002"/>
   </weights>
-  <weights deformer="skinCluster2" source="spine_02_JNT" shape="bodyShape" layer="2" defaultValue="0.000" size="377" max="2670">
+  <weights deformer="skinCluster2" source="spine_02_JNT" shape="bodyShape" layer="2" defaultValue="0.000" size="376" max="2670">
     <point index="3" value="0.031"/>
     <point index="4" value="0.375"/>
     <point index="5" value="0.185"/>
@@ -3636,7 +3636,6 @@
     <point index="34" value="0.005"/>
     <point index="35" value="0.002"/>
     <point index="36" value="0.005"/>
-    <point index="54" value="0.001"/>
     <point index="70" value="0.001"/>
     <point index="71" value="0.004"/>
     <point index="72" value="0.009"/>
@@ -3996,7 +3995,7 @@
     <point index="2669" value="0.021"/>
     <point index="2670" value="0.017"/>
   </weights>
-  <weights deformer="skinCluster2" source="spine_01_JNT" shape="bodyShape" layer="3" defaultValue="0.000" size="292" max="2670">
+  <weights deformer="skinCluster2" source="spine_01_JNT" shape="bodyShape" layer="3" defaultValue="0.000" size="290" max="2670">
     <point index="4" value="0.058"/>
     <point index="5" value="0.213"/>
     <point index="7" value="0.088"/>
@@ -4060,7 +4059,6 @@
     <point index="157" value="0.188"/>
     <point index="158" value="0.167"/>
     <point index="193" value="0.014"/>
-    <point index="194" value="0.001"/>
     <point index="195" value="0.002"/>
     <point index="196" value="0.005"/>
     <point index="197" value="0.005"/>
@@ -4283,7 +4281,6 @@
     <point index="2628" value="0.208"/>
     <point index="2629" value="0.217"/>
     <point index="2630" value="0.005"/>
-    <point index="2632" value="0.001"/>
     <point index="2666" value="0.114"/>
     <point index="2667" value="0.135"/>
     <point index="2668" value="0.079"/>
@@ -4349,12 +4346,12 @@
     <point index="2099" value="0.453"/>
     <point index="2100" value="0.585"/>
     <point index="2101" value="0.347"/>
-    <point index="2102" value="0.599"/>
+    <point index="2102" value="0.600"/>
     <point index="2103" value="0.465"/>
     <point index="2104" value="0.506"/>
     <point index="2105" value="0.247"/>
     <point index="2290" value="0.347"/>
-    <point index="2291" value="0.599"/>
+    <point index="2291" value="0.600"/>
     <point index="2292" value="0.207"/>
     <point index="2295" value="0.052"/>
     <point index="2480" value="0.456"/>
@@ -4494,7 +4491,7 @@
     <point index="4" value="0.035"/>
     <point index="5" value="0.555"/>
     <point index="7" value="0.011"/>
-    <point index="8" value="0.618"/>
+    <point index="8" value="0.619"/>
     <point index="78" value="0.004"/>
     <point index="86" value="0.035"/>
     <point index="87" value="0.034"/>
@@ -4510,8 +4507,8 @@
     <point index="97" value="0.309"/>
     <point index="98" value="0.298"/>
     <point index="99" value="0.283"/>
-    <point index="100" value="0.541"/>
-    <point index="101" value="0.514"/>
+    <point index="100" value="0.542"/>
+    <point index="101" value="0.515"/>
     <point index="102" value="0.475"/>
     <point index="103" value="0.030"/>
     <point index="104" value="0.003"/>
@@ -4551,7 +4548,7 @@
     <point index="157" value="0.604"/>
     <point index="158" value="0.682"/>
     <point index="210" value="0.288"/>
-    <point index="374" value="0.749"/>
+    <point index="374" value="0.750"/>
     <point index="385" value="0.719"/>
     <point index="386" value="0.848"/>
     <point index="387" value="0.886"/>
@@ -4666,11 +4663,11 @@
     <point index="1192" value="0.701"/>
     <point index="1193" value="0.682"/>
     <point index="1194" value="0.309"/>
-    <point index="1195" value="0.514"/>
+    <point index="1195" value="0.515"/>
     <point index="1196" value="0.656"/>
-    <point index="1197" value="0.541"/>
+    <point index="1197" value="0.542"/>
     <point index="1198" value="0.313"/>
-    <point index="1199" value="0.749"/>
+    <point index="1199" value="0.750"/>
     <point index="1200" value="0.101"/>
     <point index="1201" value="0.098"/>
     <point index="1202" value="0.011"/>
@@ -4912,7 +4909,7 @@
   </weights>
   <weights deformer="skinCluster2" source="chest_JNT" shape="bodyShape" layer="8" defaultValue="0.000" size="549" max="2744">
     <point index="0" value="0.948"/>
-    <point index="1" value="0.938"/>
+    <point index="1" value="0.939"/>
     <point index="2" value="0.883"/>
     <point index="3" value="0.227"/>
     <point index="6" value="0.380"/>
@@ -4980,7 +4977,7 @@
     <point index="70" value="0.624"/>
     <point index="71" value="0.449"/>
     <point index="72" value="0.401"/>
-    <point index="73" value="0.530"/>
+    <point index="73" value="0.531"/>
     <point index="74" value="0.467"/>
     <point index="75" value="0.419"/>
     <point index="76" value="0.216"/>
@@ -5036,7 +5033,7 @@
     <point index="163" value="0.153"/>
     <point index="164" value="0.158"/>
     <point index="165" value="0.165"/>
-    <point index="166" value="0.705"/>
+    <point index="166" value="0.706"/>
     <point index="167" value="0.398"/>
     <point index="168" value="0.375"/>
     <point index="169" value="0.057"/>
@@ -5202,7 +5199,7 @@
     <point index="1125" value="0.541"/>
     <point index="1126" value="0.179"/>
     <point index="1127" value="0.330"/>
-    <point index="1128" value="0.705"/>
+    <point index="1128" value="0.706"/>
     <point index="1129" value="0.778"/>
     <point index="1130" value="0.362"/>
     <point index="1131" value="0.487"/>
@@ -5229,7 +5226,7 @@
     <point index="1157" value="0.333"/>
     <point index="1158" value="0.345"/>
     <point index="1159" value="0.457"/>
-    <point index="1160" value="0.530"/>
+    <point index="1160" value="0.531"/>
     <point index="1161" value="0.467"/>
     <point index="1162" value="0.393"/>
     <point index="1163" value="0.277"/>
@@ -5376,7 +5373,7 @@
     <point index="2153" value="0.053"/>
     <point index="2154" value="0.175"/>
     <point index="2155" value="0.346"/>
-    <point index="2156" value="0.547"/>
+    <point index="2156" value="0.548"/>
     <point index="2157" value="0.473"/>
     <point index="2158" value="0.387"/>
     <point index="2262" value="0.053"/>
@@ -5406,7 +5403,7 @@
     <point index="2354" value="0.346"/>
     <point index="2355" value="0.175"/>
     <point index="2356" value="0.473"/>
-    <point index="2357" value="0.547"/>
+    <point index="2357" value="0.548"/>
     <point index="2452" value="0.062"/>
     <point index="2453" value="0.053"/>
     <point index="2454" value="0.094"/>
@@ -5671,7 +5668,7 @@
     <point index="226" value="0.042"/>
     <point index="227" value="0.292"/>
     <point index="228" value="0.668"/>
-    <point index="229" value="0.500"/>
+    <point index="229" value="0.501"/>
     <point index="230" value="0.532"/>
     <point index="231" value="0.630"/>
     <point index="232" value="0.477"/>
@@ -6034,7 +6031,7 @@
     <point index="29" value="0.251"/>
     <point index="30" value="0.263"/>
     <point index="31" value="0.652"/>
-    <point index="32" value="0.518"/>
+    <point index="32" value="0.519"/>
     <point index="33" value="0.231"/>
     <point index="34" value="0.496"/>
     <point index="35" value="0.406"/>
@@ -6102,7 +6099,7 @@
     <point index="2343" value="0.011"/>
     <point index="2705" value="0.002"/>
   </weights>
-  <weights deformer="skinCluster2" source="Right_Wrist_JNT" shape="bodyShape" layer="15" defaultValue="0.000" size="199" max="2719">
+  <weights deformer="skinCluster2" source="Right_Wrist_JNT" shape="bodyShape" layer="15" defaultValue="0.000" size="146" max="2719">
     <point index="331" value="0.051"/>
     <point index="332" value="0.241"/>
     <point index="333" value="0.032"/>
@@ -6145,33 +6142,28 @@
     <point index="820" value="0.468"/>
     <point index="822" value="0.811"/>
     <point index="823" value="0.996"/>
-    <point index="824" value="0.987"/>
-    <point index="825" value="1.000"/>
-    <point index="826" value="0.578"/>
-    <point index="827" value="0.684"/>
+    <point index="824" value="0.464"/>
+    <point index="825" value="0.558"/>
+    <point index="826" value="0.548"/>
+    <point index="827" value="0.416"/>
     <point index="828" value="0.859"/>
-    <point index="829" value="1.000"/>
-    <point index="830" value="1.000"/>
-    <point index="831" value="1.000"/>
-    <point index="832" value="1.000"/>
-    <point index="833" value="1.000"/>
-    <point index="834" value="1.000"/>
-    <point index="835" value="1.000"/>
-    <point index="836" value="1.000"/>
-    <point index="837" value="1.000"/>
+    <point index="829" value="0.881"/>
+    <point index="835" value="0.028"/>
+    <point index="836" value="0.037"/>
     <point index="838" value="0.673"/>
     <point index="839" value="0.687"/>
-    <point index="848" value="0.140"/>
+    <point index="848" value="0.196"/>
+    <point index="852" value="0.013"/>
     <point index="866" value="0.273"/>
-    <point index="867" value="0.088"/>
+    <point index="867" value="0.116"/>
     <point index="869" value="0.298"/>
     <point index="870" value="0.659"/>
     <point index="871" value="0.213"/>
     <point index="872" value="0.266"/>
     <point index="873" value="0.218"/>
     <point index="874" value="0.153"/>
-    <point index="877" value="0.615"/>
-    <point index="878" value="0.607"/>
+    <point index="877" value="0.915"/>
+    <point index="878" value="0.703"/>
     <point index="879" value="0.692"/>
     <point index="880" value="0.037"/>
     <point index="881" value="1.000"/>
@@ -6189,41 +6181,27 @@
     <point index="893" value="0.377"/>
     <point index="894" value="0.431"/>
     <point index="895" value="0.747"/>
-    <point index="896" value="0.470"/>
+    <point index="896" value="0.464"/>
     <point index="897" value="0.515"/>
     <point index="899" value="1.000"/>
     <point index="900" value="0.552"/>
-    <point index="901" value="1.000"/>
-    <point index="904" value="1.000"/>
-    <point index="910" value="1.000"/>
-    <point index="911" value="1.000"/>
+    <point index="901" value="0.527"/>
     <point index="913" value="0.606"/>
-    <point index="914" value="1.000"/>
+    <point index="914" value="0.539"/>
     <point index="915" value="0.439"/>
     <point index="916" value="0.406"/>
-    <point index="923" value="1.000"/>
-    <point index="924" value="1.000"/>
-    <point index="925" value="1.000"/>
-    <point index="926" value="1.000"/>
-    <point index="927" value="1.000"/>
-    <point index="928" value="1.000"/>
-    <point index="939" value="1.000"/>
-    <point index="940" value="1.000"/>
-    <point index="941" value="1.000"/>
-    <point index="942" value="1.000"/>
-    <point index="943" value="1.000"/>
-    <point index="951" value="0.964"/>
-    <point index="952" value="0.286"/>
+    <point index="951" value="0.155"/>
+    <point index="952" value="0.306"/>
     <point index="961" value="0.011"/>
     <point index="973" value="1.000"/>
-    <point index="974" value="1.000"/>
+    <point index="974" value="0.980"/>
     <point index="975" value="0.631"/>
     <point index="976" value="1.000"/>
     <point index="977" value="0.430"/>
     <point index="978" value="0.281"/>
-    <point index="979" value="0.965"/>
+    <point index="979" value="0.602"/>
     <point index="980" value="1.000"/>
-    <point index="981" value="1.000"/>
+    <point index="981" value="0.963"/>
     <point index="982" value="1.000"/>
     <point index="983" value="1.000"/>
     <point index="984" value="1.000"/>
@@ -6235,33 +6213,14 @@
     <point index="990" value="0.891"/>
     <point index="991" value="0.317"/>
     <point index="996" value="0.240"/>
-    <point index="997" value="1.000"/>
-    <point index="998" value="1.000"/>
-    <point index="999" value="1.000"/>
-    <point index="1000" value="1.000"/>
     <point index="1002" value="0.846"/>
-    <point index="1024" value="1.000"/>
-    <point index="1025" value="1.000"/>
-    <point index="1027" value="1.000"/>
-    <point index="1028" value="1.000"/>
-    <point index="1040" value="1.000"/>
-    <point index="1041" value="1.000"/>
-    <point index="1042" value="1.000"/>
-    <point index="1043" value="1.000"/>
-    <point index="1044" value="1.000"/>
-    <point index="1045" value="1.000"/>
     <point index="2194" value="0.284"/>
     <point index="2196" value="0.997"/>
     <point index="2197" value="0.686"/>
     <point index="2198" value="0.026"/>
     <point index="2199" value="0.619"/>
-    <point index="2204" value="1.000"/>
-    <point index="2205" value="1.000"/>
-    <point index="2206" value="1.000"/>
-    <point index="2207" value="1.000"/>
-    <point index="2208" value="1.000"/>
-    <point index="2209" value="1.000"/>
-    <point index="2229" value="0.008"/>
+    <point index="2206" value="0.018"/>
+    <point index="2229" value="0.022"/>
     <point index="2231" value="1.000"/>
     <point index="2232" value="0.608"/>
     <point index="2233" value="0.264"/>
@@ -6278,29 +6237,14 @@
     <point index="2306" value="1.000"/>
     <point index="2307" value="0.993"/>
     <point index="2308" value="1.000"/>
-    <point index="2309" value="1.000"/>
-    <point index="2310" value="1.000"/>
-    <point index="2311" value="1.000"/>
-    <point index="2312" value="1.000"/>
-    <point index="2313" value="1.000"/>
-    <point index="2314" value="1.000"/>
-    <point index="2315" value="1.000"/>
-    <point index="2316" value="1.000"/>
-    <point index="2317" value="1.000"/>
     <point index="2599" value="1.000"/>
     <point index="2600" value="1.000"/>
-    <point index="2601" value="1.000"/>
-    <point index="2602" value="1.000"/>
-    <point index="2603" value="1.000"/>
-    <point index="2604" value="1.000"/>
-    <point index="2605" value="1.000"/>
+    <point index="2604" value="0.163"/>
     <point index="2610" value="0.141"/>
-    <point index="2612" value="1.000"/>
     <point index="2615" value="1.000"/>
-    <point index="2621" value="1.000"/>
+    <point index="2617" value="0.026"/>
     <point index="2707" value="0.344"/>
-    <point index="2715" value="1.000"/>
-    <point index="2718" value="0.233"/>
+    <point index="2718" value="0.244"/>
     <point index="2719" value="0.700"/>
   </weights>
   <weights deformer="skinCluster2" source="Right_Toe_JNT" shape="bodyShape" layer="16" defaultValue="0.000" size="0" max="0"/>
@@ -6823,7 +6767,7 @@
     <point index="576" value="0.177"/>
     <point index="589" value="0.038"/>
     <point index="590" value="0.003"/>
-    <point index="624" value="0.502"/>
+    <point index="624" value="0.501"/>
     <point index="625" value="0.722"/>
     <point index="627" value="0.328"/>
     <point index="628" value="0.326"/>
@@ -6947,7 +6891,7 @@
     <point index="573" value="0.617"/>
     <point index="574" value="0.231"/>
     <point index="575" value="0.489"/>
-    <point index="576" value="0.618"/>
+    <point index="576" value="0.619"/>
     <point index="577" value="0.020"/>
     <point index="578" value="0.002"/>
     <point index="587" value="0.020"/>
@@ -7192,7 +7136,7 @@
     <point index="553" value="0.707"/>
     <point index="554" value="0.717"/>
     <point index="555" value="0.716"/>
-    <point index="556" value="0.727"/>
+    <point index="556" value="0.728"/>
     <point index="557" value="0.720"/>
     <point index="558" value="0.554"/>
     <point index="559" value="0.542"/>
@@ -7891,7 +7835,7 @@
     <point index="2577" value="0.437"/>
     <point index="2670" value="0.003"/>
   </weights>
-  <weights deformer="skinCluster2" source="Right_HandThumb_03_JNT" shape="bodyShape" layer="29" defaultValue="0.000" size="49" max="2616">
+  <weights deformer="skinCluster2" source="Right_HandThumb_03_JNT" shape="bodyShape" layer="29" defaultValue="0.000" size="51" max="2617">
     <point index="799" value="0.883"/>
     <point index="800" value="1.000"/>
     <point index="801" value="0.904"/>
@@ -7934,6 +7878,7 @@
     <point index="1004" value="1.000"/>
     <point index="1022" value="1.000"/>
     <point index="2228" value="0.536"/>
+    <point index="2229" value="0.007"/>
     <point index="2230" value="0.190"/>
     <point index="2300" value="0.863"/>
     <point index="2301" value="1.000"/>
@@ -7941,8 +7886,9 @@
     <point index="2303" value="1.000"/>
     <point index="2598" value="1.000"/>
     <point index="2616" value="0.160"/>
+    <point index="2617" value="0.036"/>
   </weights>
-  <weights deformer="skinCluster2" source="Right_HandThumb_02_JNT" shape="bodyShape" layer="30" defaultValue="0.000" size="54" max="2718">
+  <weights deformer="skinCluster2" source="Right_HandThumb_02_JNT" shape="bodyShape" layer="30" defaultValue="0.000" size="56" max="2718">
     <point index="799" value="0.117"/>
     <point index="801" value="0.096"/>
     <point index="803" value="0.140"/>
@@ -7977,9 +7923,11 @@
     <point index="965" value="0.822"/>
     <point index="966" value="0.983"/>
     <point index="972" value="0.156"/>
+    <point index="974" value="0.011"/>
     <point index="975" value="0.272"/>
     <point index="977" value="0.140"/>
     <point index="978" value="0.571"/>
+    <point index="979" value="0.002"/>
     <point index="988" value="0.779"/>
     <point index="991" value="0.088"/>
     <point index="992" value="0.464"/>
@@ -7989,16 +7937,16 @@
     <point index="2196" value="0.003"/>
     <point index="2199" value="0.344"/>
     <point index="2228" value="0.464"/>
-    <point index="2229" value="0.990"/>
+    <point index="2229" value="0.965"/>
     <point index="2230" value="0.810"/>
     <point index="2232" value="0.258"/>
     <point index="2233" value="0.696"/>
     <point index="2300" value="0.137"/>
     <point index="2616" value="0.840"/>
-    <point index="2617" value="0.992"/>
-    <point index="2718" value="0.694"/>
+    <point index="2617" value="0.925"/>
+    <point index="2718" value="0.689"/>
   </weights>
-  <weights deformer="skinCluster2" source="Right_HandThumb_01_JNT" shape="bodyShape" layer="31" defaultValue="0.000" size="40" max="2718">
+  <weights deformer="skinCluster2" source="Right_HandThumb_01_JNT" shape="bodyShape" layer="31" defaultValue="0.000" size="41" max="2718">
     <point index="797" value="0.207"/>
     <point index="798" value="0.089"/>
     <point index="809" value="0.196"/>
@@ -8028,17 +7976,18 @@
     <point index="960" value="0.012"/>
     <point index="961" value="0.006"/>
     <point index="966" value="0.017"/>
+    <point index="974" value="0.003"/>
     <point index="975" value="0.097"/>
     <point index="977" value="0.430"/>
     <point index="978" value="0.148"/>
     <point index="988" value="0.185"/>
     <point index="991" value="0.595"/>
     <point index="2199" value="0.037"/>
-    <point index="2229" value="0.002"/>
+    <point index="2229" value="0.006"/>
     <point index="2232" value="0.134"/>
     <point index="2233" value="0.040"/>
-    <point index="2617" value="0.008"/>
-    <point index="2718" value="0.073"/>
+    <point index="2617" value="0.013"/>
+    <point index="2718" value="0.067"/>
   </weights>
   <weights deformer="skinCluster2" source="Right_HandRing_03_JNT" shape="bodyShape" layer="32" defaultValue="0.000" size="37" max="2625">
     <point index="841" value="1.000"/>
@@ -8079,9 +8028,10 @@
     <point index="2622" value="0.247"/>
     <point index="2625" value="0.730"/>
   </weights>
-  <weights deformer="skinCluster2" source="Right_HandRing_02_JNT" shape="bodyShape" layer="33" defaultValue="0.000" size="42" max="2625">
+  <weights deformer="skinCluster2" source="Right_HandRing_02_JNT" shape="bodyShape" layer="33" defaultValue="0.000" size="43" max="2625">
     <point index="850" value="0.215"/>
     <point index="851" value="0.227"/>
+    <point index="852" value="0.003"/>
     <point index="902" value="0.560"/>
     <point index="903" value="0.575"/>
     <point index="929" value="0.759"/>
@@ -8123,27 +8073,31 @@
     <point index="2622" value="0.753"/>
     <point index="2625" value="0.270"/>
   </weights>
-  <weights deformer="skinCluster2" source="Right_HandRing_01_JNT" shape="bodyShape" layer="34" defaultValue="0.000" size="36" max="2614">
+  <weights deformer="skinCluster2" source="Right_HandRing_01_JNT" shape="bodyShape" layer="34" defaultValue="0.000" size="41" max="2614">
     <point index="819" value="0.420"/>
     <point index="820" value="0.026"/>
     <point index="821" value="0.999"/>
     <point index="822" value="0.085"/>
-    <point index="824" value="0.013"/>
+    <point index="824" value="0.245"/>
+    <point index="825" value="0.061"/>
     <point index="838" value="0.010"/>
-    <point index="848" value="0.570"/>
+    <point index="848" value="0.796"/>
     <point index="849" value="1.000"/>
     <point index="850" value="0.785"/>
     <point index="851" value="0.773"/>
-    <point index="852" value="1.000"/>
-    <point index="877" value="0.057"/>
-    <point index="878" value="0.256"/>
-    <point index="896" value="0.506"/>
+    <point index="852" value="0.981"/>
+    <point index="867" value="0.002"/>
+    <point index="877" value="0.085"/>
+    <point index="878" value="0.297"/>
+    <point index="896" value="0.511"/>
     <point index="902" value="0.440"/>
     <point index="903" value="0.425"/>
+    <point index="914" value="0.001"/>
     <point index="915" value="0.492"/>
     <point index="930" value="0.125"/>
     <point index="931" value="0.091"/>
-    <point index="952" value="0.650"/>
+    <point index="952" value="0.693"/>
+    <point index="981" value="0.005"/>
     <point index="990" value="0.090"/>
     <point index="1026" value="0.248"/>
     <point index="1029" value="0.104"/>
@@ -8156,6 +8110,7 @@
     <point index="2194" value="0.027"/>
     <point index="2210" value="1.000"/>
     <point index="2211" value="0.746"/>
+    <point index="2604" value="0.148"/>
     <point index="2608" value="0.728"/>
     <point index="2610" value="0.089"/>
     <point index="2611" value="0.252"/>
@@ -8202,7 +8157,7 @@
     <point index="2739" value="0.791"/>
   </weights>
   <weights deformer="skinCluster2" source="Right_HandPinky_02_JNT" shape="bodyShape" layer="36" defaultValue="0.000" size="46" max="2739">
-    <point index="848" value="0.006"/>
+    <point index="848" value="0.008"/>
     <point index="952" value="0.001"/>
     <point index="1008" value="0.170"/>
     <point index="1009" value="0.213"/>
@@ -8249,25 +8204,22 @@
     <point index="2738" value="0.586"/>
     <point index="2739" value="0.209"/>
   </weights>
-  <weights deformer="skinCluster2" source="Right_HandPinky_01_JNT" shape="bodyShape" layer="37" defaultValue="0.000" size="44" max="2738">
+  <weights deformer="skinCluster2" source="Right_HandPinky_01_JNT" shape="bodyShape" layer="37" defaultValue="0.000" size="41" max="2738">
     <point index="819" value="0.158"/>
     <point index="820" value="0.506"/>
     <point index="821" value="0.001"/>
     <point index="822" value="0.104"/>
     <point index="823" value="0.004"/>
+    <point index="824" value="0.004"/>
     <point index="838" value="0.317"/>
     <point index="839" value="0.313"/>
     <point index="840" value="1.000"/>
-    <point index="848" value="0.284"/>
-    <point index="877" value="0.328"/>
-    <point index="878" value="0.137"/>
-    <point index="896" value="0.024"/>
+    <point index="896" value="0.025"/>
     <point index="897" value="0.485"/>
     <point index="898" value="1.000"/>
     <point index="900" value="0.448"/>
     <point index="915" value="0.069"/>
     <point index="933" value="1.000"/>
-    <point index="952" value="0.063"/>
     <point index="990" value="0.019"/>
     <point index="1008" value="0.830"/>
     <point index="1009" value="0.787"/>
@@ -8295,9 +8247,124 @@
     <point index="2624" value="0.099"/>
     <point index="2738" value="0.414"/>
   </weights>
-  <weights deformer="skinCluster2" source="Right_HandMiddle_03_JNT" shape="bodyShape" layer="38" defaultValue="0.000" size="0" max="0"/>
-  <weights deformer="skinCluster2" source="Right_HandMiddle_02_JNT" shape="bodyShape" layer="39" defaultValue="0.000" size="0" max="0"/>
-  <weights deformer="skinCluster2" source="Right_HandMiddle_01_JNT" shape="bodyShape" layer="40" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster2" source="Right_HandMiddle_03_JNT" shape="bodyShape" layer="38" defaultValue="0.000" size="36" max="2715">
+    <point index="830" value="1.000"/>
+    <point index="831" value="1.000"/>
+    <point index="832" value="1.000"/>
+    <point index="833" value="1.000"/>
+    <point index="923" value="0.103"/>
+    <point index="924" value="0.116"/>
+    <point index="926" value="0.079"/>
+    <point index="927" value="0.083"/>
+    <point index="939" value="0.774"/>
+    <point index="940" value="0.826"/>
+    <point index="941" value="1.000"/>
+    <point index="942" value="0.822"/>
+    <point index="943" value="0.517"/>
+    <point index="997" value="1.000"/>
+    <point index="998" value="1.000"/>
+    <point index="999" value="1.000"/>
+    <point index="1000" value="1.000"/>
+    <point index="1027" value="0.076"/>
+    <point index="1040" value="0.698"/>
+    <point index="1041" value="0.995"/>
+    <point index="1042" value="0.689"/>
+    <point index="1043" value="0.488"/>
+    <point index="1044" value="0.483"/>
+    <point index="1045" value="0.492"/>
+    <point index="2310" value="0.481"/>
+    <point index="2311" value="0.739"/>
+    <point index="2312" value="1.000"/>
+    <point index="2313" value="0.513"/>
+    <point index="2314" value="1.000"/>
+    <point index="2315" value="1.000"/>
+    <point index="2316" value="1.000"/>
+    <point index="2317" value="1.000"/>
+    <point index="2601" value="0.988"/>
+    <point index="2602" value="1.000"/>
+    <point index="2603" value="1.000"/>
+    <point index="2715" value="0.096"/>
+  </weights>
+  <weights deformer="skinCluster2" source="Right_HandMiddle_02_JNT" shape="bodyShape" layer="39" defaultValue="0.000" size="40" max="2715">
+    <point index="834" value="0.117"/>
+    <point index="837" value="0.134"/>
+    <point index="904" value="0.582"/>
+    <point index="910" value="0.225"/>
+    <point index="911" value="0.745"/>
+    <point index="923" value="0.897"/>
+    <point index="924" value="0.884"/>
+    <point index="925" value="0.937"/>
+    <point index="926" value="0.921"/>
+    <point index="927" value="0.917"/>
+    <point index="928" value="0.889"/>
+    <point index="939" value="0.226"/>
+    <point index="940" value="0.174"/>
+    <point index="942" value="0.178"/>
+    <point index="943" value="0.483"/>
+    <point index="1024" value="0.612"/>
+    <point index="1025" value="0.675"/>
+    <point index="1027" value="0.924"/>
+    <point index="1028" value="0.938"/>
+    <point index="1040" value="0.302"/>
+    <point index="1041" value="0.005"/>
+    <point index="1042" value="0.311"/>
+    <point index="1043" value="0.512"/>
+    <point index="1044" value="0.517"/>
+    <point index="1045" value="0.508"/>
+    <point index="2204" value="0.936"/>
+    <point index="2205" value="0.177"/>
+    <point index="2206" value="0.009"/>
+    <point index="2207" value="0.926"/>
+    <point index="2208" value="0.137"/>
+    <point index="2309" value="0.645"/>
+    <point index="2310" value="0.519"/>
+    <point index="2311" value="0.261"/>
+    <point index="2313" value="0.487"/>
+    <point index="2601" value="0.012"/>
+    <point index="2604" value="0.030"/>
+    <point index="2605" value="0.204"/>
+    <point index="2612" value="0.880"/>
+    <point index="2621" value="0.723"/>
+    <point index="2715" value="0.904"/>
+  </weights>
+  <weights deformer="skinCluster2" source="Right_HandMiddle_01_JNT" shape="bodyShape" layer="40" defaultValue="0.000" size="36" max="2621">
+    <point index="824" value="0.286"/>
+    <point index="825" value="0.379"/>
+    <point index="826" value="0.053"/>
+    <point index="827" value="0.248"/>
+    <point index="829" value="0.055"/>
+    <point index="834" value="0.883"/>
+    <point index="835" value="0.972"/>
+    <point index="836" value="0.951"/>
+    <point index="837" value="0.866"/>
+    <point index="852" value="0.003"/>
+    <point index="867" value="0.081"/>
+    <point index="869" value="0.002"/>
+    <point index="901" value="0.450"/>
+    <point index="904" value="0.418"/>
+    <point index="910" value="0.775"/>
+    <point index="911" value="0.255"/>
+    <point index="914" value="0.454"/>
+    <point index="925" value="0.063"/>
+    <point index="928" value="0.111"/>
+    <point index="951" value="0.587"/>
+    <point index="979" value="0.266"/>
+    <point index="981" value="0.029"/>
+    <point index="1024" value="0.388"/>
+    <point index="1025" value="0.325"/>
+    <point index="1028" value="0.062"/>
+    <point index="2204" value="0.064"/>
+    <point index="2205" value="0.823"/>
+    <point index="2206" value="0.910"/>
+    <point index="2207" value="0.074"/>
+    <point index="2208" value="0.863"/>
+    <point index="2209" value="1.000"/>
+    <point index="2309" value="0.355"/>
+    <point index="2604" value="0.603"/>
+    <point index="2605" value="0.796"/>
+    <point index="2612" value="0.120"/>
+    <point index="2621" value="0.277"/>
+  </weights>
   <weights deformer="skinCluster2" source="Right_HandIndex_03_JNT" shape="bodyShape" layer="41" defaultValue="0.000" size="36" max="2736">
     <point index="853" value="1.000"/>
     <point index="854" value="1.000"/>
@@ -8336,13 +8403,15 @@
     <point index="2721" value="0.741"/>
     <point index="2736" value="1.000"/>
   </weights>
-  <weights deformer="skinCluster2" source="Right_HandIndex_02_JNT" shape="bodyShape" layer="42" defaultValue="0.000" size="39" max="2721">
+  <weights deformer="skinCluster2" source="Right_HandIndex_02_JNT" shape="bodyShape" layer="42" defaultValue="0.000" size="41" max="2721">
     <point index="856" value="0.008"/>
     <point index="862" value="0.840"/>
     <point index="863" value="0.833"/>
     <point index="864" value="0.749"/>
     <point index="865" value="0.806"/>
+    <point index="867" value="0.005"/>
     <point index="868" value="0.106"/>
+    <point index="869" value="0.003"/>
     <point index="905" value="0.538"/>
     <point index="906" value="0.530"/>
     <point index="907" value="0.497"/>
@@ -8377,19 +8446,23 @@
     <point index="2717" value="0.446"/>
     <point index="2721" value="0.259"/>
   </weights>
-  <weights deformer="skinCluster2" source="Right_HandIndex_01_JNT" shape="bodyShape" layer="43" defaultValue="0.000" size="38" max="2719">
-    <point index="826" value="0.422"/>
-    <point index="827" value="0.316"/>
+  <weights deformer="skinCluster2" source="Right_HandIndex_01_JNT" shape="bodyShape" layer="43" defaultValue="0.000" size="47" max="2719">
+    <point index="825" value="0.001"/>
+    <point index="826" value="0.399"/>
+    <point index="827" value="0.336"/>
     <point index="828" value="0.141"/>
+    <point index="829" value="0.064"/>
+    <point index="836" value="0.012"/>
     <point index="862" value="0.160"/>
     <point index="864" value="0.251"/>
     <point index="866" value="0.727"/>
-    <point index="867" value="0.912"/>
+    <point index="867" value="0.796"/>
     <point index="868" value="0.894"/>
-    <point index="869" value="0.702"/>
+    <point index="869" value="0.697"/>
     <point index="879" value="0.308"/>
     <point index="880" value="0.963"/>
     <point index="883" value="0.008"/>
+    <point index="901" value="0.023"/>
     <point index="905" value="0.462"/>
     <point index="906" value="0.470"/>
     <point index="907" value="0.503"/>
@@ -8397,8 +8470,11 @@
     <point index="909" value="0.887"/>
     <point index="912" value="0.467"/>
     <point index="913" value="0.394"/>
-    <point index="951" value="0.036"/>
-    <point index="979" value="0.035"/>
+    <point index="914" value="0.006"/>
+    <point index="951" value="0.258"/>
+    <point index="974" value="0.006"/>
+    <point index="979" value="0.130"/>
+    <point index="981" value="0.003"/>
     <point index="989" value="0.316"/>
     <point index="996" value="0.760"/>
     <point index="1023" value="0.164"/>
@@ -8408,10 +8484,12 @@
     <point index="2201" value="0.456"/>
     <point index="2202" value="0.290"/>
     <point index="2203" value="0.889"/>
+    <point index="2206" value="0.063"/>
     <point index="2219" value="0.002"/>
     <point index="2220" value="0.540"/>
     <point index="2221" value="0.900"/>
     <point index="2222" value="0.238"/>
+    <point index="2604" value="0.056"/>
     <point index="2620" value="0.299"/>
     <point index="2714" value="0.890"/>
     <point index="2716" value="0.009"/>
@@ -8899,13 +8977,13 @@
     <point index="627" value="0.667"/>
     <point index="628" value="0.668"/>
     <point index="629" value="0.684"/>
-    <point index="630" value="0.778"/>
+    <point index="630" value="0.777"/>
     <point index="631" value="0.688"/>
     <point index="632" value="0.269"/>
     <point index="633" value="0.688"/>
     <point index="634" value="0.670"/>
     <point index="635" value="0.822"/>
-    <point index="636" value="0.718"/>
+    <point index="636" value="0.717"/>
     <point index="637" value="0.826"/>
     <point index="638" value="0.112"/>
     <point index="639" value="0.113"/>
@@ -8993,7 +9071,7 @@
     <point index="755" value="0.998"/>
     <point index="756" value="1.000"/>
     <point index="757" value="0.997"/>
-    <point index="758" value="0.848"/>
+    <point index="758" value="0.847"/>
     <point index="759" value="0.951"/>
     <point index="760" value="0.826"/>
     <point index="761" value="0.842"/>
@@ -9377,7 +9455,7 @@
     <point index="2680" value="0.268"/>
     <point index="2681" value="0.395"/>
     <point index="2682" value="0.531"/>
-    <point index="2683" value="0.500"/>
+    <point index="2683" value="0.501"/>
     <point index="2684" value="0.649"/>
     <point index="2687" value="0.116"/>
     <point index="2691" value="0.121"/>
@@ -9701,7 +9779,7 @@
     <point index="2110" value="0.287"/>
     <point index="2111" value="0.152"/>
     <point index="2112" value="0.016"/>
-    <point index="2113" value="0.518"/>
+    <point index="2113" value="0.519"/>
     <point index="2114" value="0.770"/>
     <point index="2115" value="0.942"/>
     <point index="2116" value="0.604"/>
@@ -9717,23 +9795,19 @@
     <point index="2533" value="0.006"/>
     <point index="2534" value="0.011"/>
   </weights>
-  <weights deformer="skinCluster2" source="Left_Wrist_JNT" shape="bodyShape" layer="56" defaultValue="0.000" size="199" max="2742">
-    <point index="1271" value="1.000"/>
-    <point index="1272" value="1.000"/>
-    <point index="1273" value="1.000"/>
-    <point index="1274" value="1.000"/>
-    <point index="1275" value="1.000"/>
-    <point index="1276" value="1.000"/>
-    <point index="1277" value="1.000"/>
+  <weights deformer="skinCluster2" source="Left_Wrist_JNT" shape="bodyShape" layer="56" defaultValue="0.000" size="146" max="2742">
+    <point index="1273" value="0.037"/>
+    <point index="1274" value="0.028"/>
+    <point index="1277" value="0.881"/>
     <point index="1278" value="0.859"/>
     <point index="1279" value="1.000"/>
-    <point index="1280" value="0.684"/>
-    <point index="1281" value="0.578"/>
-    <point index="1282" value="1.000"/>
-    <point index="1283" value="1.000"/>
-    <point index="1284" value="1.000"/>
-    <point index="1285" value="1.000"/>
-    <point index="1286" value="0.987"/>
+    <point index="1280" value="0.416"/>
+    <point index="1281" value="0.548"/>
+    <point index="1282" value="0.527"/>
+    <point index="1283" value="0.539"/>
+    <point index="1284" value="0.558"/>
+    <point index="1285" value="0.963"/>
+    <point index="1286" value="0.464"/>
     <point index="1287" value="1.000"/>
     <point index="1288" value="0.911"/>
     <point index="1289" value="1.000"/>
@@ -9750,7 +9824,8 @@
     <point index="1300" value="0.977"/>
     <point index="1302" value="0.439"/>
     <point index="1303" value="0.422"/>
-    <point index="1305" value="0.470"/>
+    <point index="1304" value="0.013"/>
+    <point index="1305" value="0.464"/>
     <point index="1306" value="0.468"/>
     <point index="1362" value="0.515"/>
     <point index="1363" value="0.996"/>
@@ -9799,44 +9874,21 @@
     <point index="1408" value="0.684"/>
     <point index="1409" value="0.606"/>
     <point index="1410" value="0.298"/>
-    <point index="1411" value="0.088"/>
+    <point index="1411" value="0.116"/>
     <point index="1412" value="0.240"/>
     <point index="1413" value="0.037"/>
-    <point index="1593" value="1.000"/>
-    <point index="1594" value="1.000"/>
-    <point index="1595" value="1.000"/>
-    <point index="1596" value="1.000"/>
-    <point index="1597" value="1.000"/>
-    <point index="1598" value="1.000"/>
-    <point index="1599" value="1.000"/>
-    <point index="1600" value="1.000"/>
-    <point index="1601" value="1.000"/>
-    <point index="1602" value="1.000"/>
-    <point index="1603" value="1.000"/>
-    <point index="1604" value="1.000"/>
-    <point index="1605" value="1.000"/>
-    <point index="1606" value="1.000"/>
-    <point index="1607" value="1.000"/>
-    <point index="1608" value="1.000"/>
-    <point index="1609" value="1.000"/>
-    <point index="1610" value="1.000"/>
-    <point index="1618" value="0.140"/>
+    <point index="1618" value="0.196"/>
     <point index="1621" value="0.284"/>
-    <point index="1622" value="0.607"/>
+    <point index="1622" value="0.703"/>
     <point index="1623" value="1.000"/>
-    <point index="1624" value="0.965"/>
+    <point index="1624" value="0.602"/>
     <point index="1625" value="0.700"/>
-    <point index="1630" value="1.000"/>
-    <point index="1631" value="1.000"/>
-    <point index="1632" value="1.000"/>
-    <point index="1633" value="1.000"/>
-    <point index="1634" value="1.000"/>
-    <point index="1635" value="1.000"/>
-    <point index="1636" value="0.286"/>
+    <point index="1636" value="0.306"/>
     <point index="1653" value="0.011"/>
     <point index="1691" value="0.001"/>
     <point index="1695" value="0.213"/>
-    <point index="1703" value="0.008"/>
+    <point index="1702" value="0.026"/>
+    <point index="1703" value="0.022"/>
     <point index="1704" value="0.264"/>
     <point index="1974" value="0.371"/>
     <point index="1975" value="0.051"/>
@@ -9856,23 +9908,11 @@
     <point index="2081" value="0.371"/>
     <point index="2082" value="0.339"/>
     <point index="2123" value="1.000"/>
-    <point index="2124" value="1.000"/>
-    <point index="2125" value="1.000"/>
-    <point index="2126" value="1.000"/>
-    <point index="2127" value="1.000"/>
-    <point index="2128" value="1.000"/>
-    <point index="2129" value="1.000"/>
-    <point index="2130" value="1.000"/>
-    <point index="2131" value="1.000"/>
-    <point index="2132" value="1.000"/>
     <point index="2397" value="0.998"/>
     <point index="2398" value="0.673"/>
     <point index="2399" value="0.997"/>
     <point index="2400" value="0.026"/>
-    <point index="2402" value="1.000"/>
-    <point index="2403" value="1.000"/>
-    <point index="2404" value="1.000"/>
-    <point index="2405" value="1.000"/>
+    <point index="2404" value="0.018"/>
     <point index="2423" value="0.608"/>
     <point index="2424" value="1.000"/>
     <point index="2462" value="0.806"/>
@@ -9890,33 +9930,18 @@
     <point index="2498" value="1.000"/>
     <point index="2499" value="0.993"/>
     <point index="2500" value="1.000"/>
-    <point index="2501" value="1.000"/>
-    <point index="2502" value="1.000"/>
-    <point index="2503" value="1.000"/>
-    <point index="2504" value="1.000"/>
-    <point index="2505" value="1.000"/>
-    <point index="2506" value="1.000"/>
     <point index="2648" value="0.141"/>
     <point index="2650" value="1.000"/>
-    <point index="2651" value="0.615"/>
-    <point index="2652" value="1.000"/>
-    <point index="2655" value="0.964"/>
-    <point index="2656" value="1.000"/>
-    <point index="2657" value="1.000"/>
-    <point index="2658" value="1.000"/>
-    <point index="2659" value="1.000"/>
+    <point index="2651" value="0.915"/>
+    <point index="2652" value="0.980"/>
+    <point index="2655" value="0.155"/>
     <point index="2685" value="0.369"/>
     <point index="2686" value="0.397"/>
     <point index="2690" value="0.419"/>
     <point index="2693" value="1.000"/>
-    <point index="2694" value="1.000"/>
-    <point index="2695" value="1.000"/>
-    <point index="2696" value="1.000"/>
-    <point index="2697" value="1.000"/>
     <point index="2726" value="0.273"/>
-    <point index="2727" value="1.000"/>
-    <point index="2733" value="1.000"/>
-    <point index="2742" value="0.233"/>
+    <point index="2727" value="0.163"/>
+    <point index="2742" value="0.244"/>
   </weights>
   <weights deformer="skinCluster2" source="Left_Toe_JNT" shape="bodyShape" layer="57" defaultValue="0.000" size="0" max="0"/>
   <weights deformer="skinCluster2" source="Left_Shoulder_secondary3_JNT" shape="bodyShape" layer="58" defaultValue="0.000" size="86" max="2689">
@@ -10479,7 +10504,7 @@
     <point index="2427" value="0.637"/>
     <point index="2428" value="0.682"/>
     <point index="2429" value="0.708"/>
-    <point index="2430" value="0.502"/>
+    <point index="2430" value="0.501"/>
     <point index="2431" value="0.557"/>
     <point index="2432" value="0.711"/>
     <point index="2433" value="0.696"/>
@@ -10543,7 +10568,7 @@
     <point index="1758" value="0.247"/>
     <point index="1759" value="0.503"/>
     <point index="1760" value="0.617"/>
-    <point index="1761" value="0.618"/>
+    <point index="1761" value="0.619"/>
     <point index="1762" value="0.511"/>
     <point index="1763" value="0.496"/>
     <point index="1764" value="0.520"/>
@@ -10848,7 +10873,7 @@
     <point index="1912" value="0.600"/>
     <point index="1913" value="0.727"/>
     <point index="1914" value="0.691"/>
-    <point index="1915" value="0.727"/>
+    <point index="1915" value="0.728"/>
     <point index="1917" value="0.040"/>
     <point index="1918" value="0.100"/>
     <point index="1919" value="0.035"/>
@@ -11510,7 +11535,7 @@
     <point index="2676" value="0.408"/>
     <point index="2677" value="0.437"/>
   </weights>
-  <weights deformer="skinCluster2" source="Left_HandThumb_03_JNT" shape="bodyShape" layer="70" defaultValue="0.000" size="49" max="2732">
+  <weights deformer="skinCluster2" source="Left_HandThumb_03_JNT" shape="bodyShape" layer="70" defaultValue="0.000" size="51" max="2732">
     <point index="1654" value="0.126"/>
     <point index="1655" value="0.160"/>
     <point index="1656" value="0.536"/>
@@ -11551,6 +11576,8 @@
     <point index="1699" value="0.862"/>
     <point index="1700" value="0.538"/>
     <point index="1701" value="0.160"/>
+    <point index="1702" value="0.036"/>
+    <point index="1703" value="0.007"/>
     <point index="2122" value="1.000"/>
     <point index="2421" value="0.190"/>
     <point index="2422" value="0.536"/>
@@ -11561,7 +11588,7 @@
     <point index="2661" value="1.000"/>
     <point index="2732" value="1.000"/>
   </weights>
-  <weights deformer="skinCluster2" source="Left_HandThumb_02_JNT" shape="bodyShape" layer="71" defaultValue="0.000" size="54" max="2742">
+  <weights deformer="skinCluster2" source="Left_HandThumb_02_JNT" shape="bodyShape" layer="71" defaultValue="0.000" size="56" max="2742">
     <point index="1385" value="0.452"/>
     <point index="1386" value="0.080"/>
     <point index="1388" value="0.242"/>
@@ -11576,6 +11603,7 @@
     <point index="1401" value="0.571"/>
     <point index="1402" value="0.272"/>
     <point index="1405" value="0.344"/>
+    <point index="1624" value="0.002"/>
     <point index="1652" value="0.993"/>
     <point index="1653" value="0.983"/>
     <point index="1654" value="0.874"/>
@@ -11607,17 +11635,18 @@
     <point index="1699" value="0.138"/>
     <point index="1700" value="0.462"/>
     <point index="1701" value="0.840"/>
-    <point index="1702" value="0.992"/>
-    <point index="1703" value="0.990"/>
+    <point index="1702" value="0.925"/>
+    <point index="1703" value="0.965"/>
     <point index="1704" value="0.696"/>
     <point index="2399" value="0.003"/>
     <point index="2421" value="0.810"/>
     <point index="2422" value="0.464"/>
     <point index="2423" value="0.258"/>
     <point index="2492" value="0.137"/>
-    <point index="2742" value="0.694"/>
+    <point index="2652" value="0.011"/>
+    <point index="2742" value="0.689"/>
   </weights>
-  <weights deformer="skinCluster2" source="Left_HandThumb_01_JNT" shape="bodyShape" layer="72" defaultValue="0.000" size="40" max="2742">
+  <weights deformer="skinCluster2" source="Left_HandThumb_01_JNT" shape="bodyShape" layer="72" defaultValue="0.000" size="41" max="2742">
     <point index="1288" value="0.089"/>
     <point index="1290" value="0.015"/>
     <point index="1291" value="0.316"/>
@@ -11653,11 +11682,12 @@
     <point index="1694" value="0.142"/>
     <point index="1695" value="0.229"/>
     <point index="1696" value="0.017"/>
-    <point index="1702" value="0.008"/>
-    <point index="1703" value="0.002"/>
+    <point index="1702" value="0.013"/>
+    <point index="1703" value="0.006"/>
     <point index="1704" value="0.040"/>
     <point index="2423" value="0.134"/>
-    <point index="2742" value="0.073"/>
+    <point index="2652" value="0.003"/>
+    <point index="2742" value="0.067"/>
   </weights>
   <weights deformer="skinCluster2" source="Left_HandRing_03_JNT" shape="bodyShape" layer="73" defaultValue="0.000" size="37" max="2660">
     <point index="1315" value="0.291"/>
@@ -11698,7 +11728,8 @@
     <point index="2644" value="0.533"/>
     <point index="2660" value="1.000"/>
   </weights>
-  <weights deformer="skinCluster2" source="Left_HandRing_02_JNT" shape="bodyShape" layer="74" defaultValue="0.000" size="42" max="2647">
+  <weights deformer="skinCluster2" source="Left_HandRing_02_JNT" shape="bodyShape" layer="74" defaultValue="0.000" size="43" max="2647">
+    <point index="1304" value="0.003"/>
     <point index="1307" value="0.215"/>
     <point index="1308" value="0.227"/>
     <point index="1309" value="0.254"/>
@@ -11742,15 +11773,18 @@
     <point index="2646" value="0.748"/>
     <point index="2647" value="0.272"/>
   </weights>
-  <weights deformer="skinCluster2" source="Left_HandRing_01_JNT" shape="bodyShape" layer="75" defaultValue="0.000" size="36" max="2651">
-    <point index="1286" value="0.013"/>
+  <weights deformer="skinCluster2" source="Left_HandRing_01_JNT" shape="bodyShape" layer="75" defaultValue="0.000" size="41" max="2727">
+    <point index="1283" value="0.001"/>
+    <point index="1284" value="0.061"/>
+    <point index="1285" value="0.005"/>
+    <point index="1286" value="0.245"/>
     <point index="1295" value="0.090"/>
     <point index="1297" value="0.085"/>
     <point index="1301" value="1.000"/>
     <point index="1302" value="0.492"/>
     <point index="1303" value="0.420"/>
-    <point index="1304" value="1.000"/>
-    <point index="1305" value="0.506"/>
+    <point index="1304" value="0.981"/>
+    <point index="1305" value="0.511"/>
     <point index="1306" value="0.026"/>
     <point index="1307" value="0.785"/>
     <point index="1308" value="0.773"/>
@@ -11760,14 +11794,15 @@
     <point index="1312" value="0.154"/>
     <point index="1313" value="0.104"/>
     <point index="1314" value="0.091"/>
+    <point index="1411" value="0.002"/>
     <point index="1614" value="0.125"/>
     <point index="1615" value="0.248"/>
     <point index="1616" value="0.713"/>
     <point index="1617" value="0.341"/>
-    <point index="1618" value="0.570"/>
+    <point index="1618" value="0.796"/>
     <point index="1621" value="0.027"/>
-    <point index="1622" value="0.256"/>
-    <point index="1636" value="0.650"/>
+    <point index="1622" value="0.297"/>
+    <point index="1636" value="0.693"/>
     <point index="2390" value="0.094"/>
     <point index="2391" value="0.358"/>
     <point index="2392" value="0.999"/>
@@ -11778,7 +11813,8 @@
     <point index="2646" value="0.252"/>
     <point index="2647" value="0.728"/>
     <point index="2648" value="0.089"/>
-    <point index="2651" value="0.057"/>
+    <point index="2651" value="0.085"/>
+    <point index="2727" value="0.148"/>
   </weights>
   <weights deformer="skinCluster2" source="Left_HandPinky_03_JNT" shape="bodyShape" layer="76" defaultValue="0.000" size="38" max="2743">
     <point index="1333" value="0.930"/>
@@ -11842,7 +11878,7 @@
     <point index="1356" value="0.806"/>
     <point index="1357" value="0.547"/>
     <point index="1358" value="0.170"/>
-    <point index="1618" value="0.006"/>
+    <point index="1618" value="0.008"/>
     <point index="1619" value="0.586"/>
     <point index="1620" value="0.171"/>
     <point index="1636" value="0.001"/>
@@ -11869,12 +11905,14 @@
     <point index="2649" value="0.274"/>
     <point index="2735" value="0.026"/>
   </weights>
-  <weights deformer="skinCluster2" source="Left_HandPinky_01_JNT" shape="bodyShape" layer="78" defaultValue="0.000" size="44" max="2651">
+  <weights deformer="skinCluster2" source="Left_HandPinky_01_JNT" shape="bodyShape" layer="78" defaultValue="0.000" size="42" max="2649">
+    <point index="1284" value="0.001"/>
+    <point index="1286" value="0.004"/>
     <point index="1295" value="0.019"/>
     <point index="1297" value="0.104"/>
     <point index="1302" value="0.069"/>
     <point index="1303" value="0.158"/>
-    <point index="1305" value="0.024"/>
+    <point index="1305" value="0.025"/>
     <point index="1306" value="0.506"/>
     <point index="1348" value="0.007"/>
     <point index="1350" value="0.753"/>
@@ -11893,12 +11931,9 @@
     <point index="1363" value="0.004"/>
     <point index="1365" value="0.448"/>
     <point index="1366" value="0.313"/>
-    <point index="1618" value="0.284"/>
     <point index="1619" value="0.414"/>
     <point index="1620" value="0.829"/>
     <point index="1621" value="0.689"/>
-    <point index="1622" value="0.137"/>
-    <point index="1636" value="0.063"/>
     <point index="2147" value="0.002"/>
     <point index="2148" value="0.099"/>
     <point index="2392" value="0.001"/>
@@ -11913,11 +11948,125 @@
     <point index="2523" value="0.017"/>
     <point index="2648" value="0.769"/>
     <point index="2649" value="0.726"/>
-    <point index="2651" value="0.328"/>
   </weights>
-  <weights deformer="skinCluster2" source="Left_HandMiddle_03_JNT" shape="bodyShape" layer="79" defaultValue="0.000" size="0" max="0"/>
-  <weights deformer="skinCluster2" source="Left_HandMiddle_02_JNT" shape="bodyShape" layer="80" defaultValue="0.000" size="0" max="0"/>
-  <weights deformer="skinCluster2" source="Left_HandMiddle_01_JNT" shape="bodyShape" layer="81" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster2" source="Left_HandMiddle_03_JNT" shape="bodyShape" layer="79" defaultValue="0.000" size="36" max="2733">
+    <point index="1593" value="1.000"/>
+    <point index="1594" value="1.000"/>
+    <point index="1595" value="1.000"/>
+    <point index="1596" value="1.000"/>
+    <point index="1597" value="1.000"/>
+    <point index="1598" value="0.826"/>
+    <point index="1599" value="1.000"/>
+    <point index="1600" value="0.822"/>
+    <point index="1601" value="0.483"/>
+    <point index="1602" value="0.488"/>
+    <point index="1603" value="0.076"/>
+    <point index="1604" value="0.079"/>
+    <point index="1607" value="0.103"/>
+    <point index="1609" value="0.083"/>
+    <point index="1610" value="0.481"/>
+    <point index="1631" value="0.096"/>
+    <point index="2124" value="0.689"/>
+    <point index="2125" value="0.517"/>
+    <point index="2126" value="1.000"/>
+    <point index="2127" value="0.988"/>
+    <point index="2128" value="0.995"/>
+    <point index="2129" value="0.774"/>
+    <point index="2130" value="0.513"/>
+    <point index="2131" value="1.000"/>
+    <point index="2132" value="1.000"/>
+    <point index="2502" value="1.000"/>
+    <point index="2503" value="0.739"/>
+    <point index="2504" value="1.000"/>
+    <point index="2505" value="1.000"/>
+    <point index="2506" value="1.000"/>
+    <point index="2657" value="0.116"/>
+    <point index="2694" value="0.492"/>
+    <point index="2695" value="0.698"/>
+    <point index="2696" value="1.000"/>
+    <point index="2697" value="1.000"/>
+    <point index="2733" value="1.000"/>
+  </weights>
+  <weights deformer="skinCluster2" source="Left_HandMiddle_02_JNT" shape="bodyShape" layer="80" defaultValue="0.000" size="40" max="2727">
+    <point index="1271" value="0.117"/>
+    <point index="1272" value="0.134"/>
+    <point index="1275" value="0.582"/>
+    <point index="1276" value="0.612"/>
+    <point index="1598" value="0.174"/>
+    <point index="1600" value="0.178"/>
+    <point index="1601" value="0.517"/>
+    <point index="1602" value="0.512"/>
+    <point index="1603" value="0.924"/>
+    <point index="1604" value="0.921"/>
+    <point index="1605" value="0.938"/>
+    <point index="1606" value="0.937"/>
+    <point index="1607" value="0.897"/>
+    <point index="1608" value="0.675"/>
+    <point index="1609" value="0.917"/>
+    <point index="1610" value="0.519"/>
+    <point index="1630" value="0.204"/>
+    <point index="1631" value="0.904"/>
+    <point index="1632" value="0.889"/>
+    <point index="1633" value="0.745"/>
+    <point index="1634" value="0.926"/>
+    <point index="1635" value="0.137"/>
+    <point index="2124" value="0.311"/>
+    <point index="2125" value="0.483"/>
+    <point index="2127" value="0.012"/>
+    <point index="2128" value="0.005"/>
+    <point index="2129" value="0.226"/>
+    <point index="2130" value="0.487"/>
+    <point index="2402" value="0.936"/>
+    <point index="2403" value="0.177"/>
+    <point index="2404" value="0.009"/>
+    <point index="2501" value="0.645"/>
+    <point index="2503" value="0.261"/>
+    <point index="2656" value="0.225"/>
+    <point index="2657" value="0.884"/>
+    <point index="2658" value="0.880"/>
+    <point index="2659" value="0.723"/>
+    <point index="2694" value="0.508"/>
+    <point index="2695" value="0.302"/>
+    <point index="2727" value="0.030"/>
+  </weights>
+  <weights deformer="skinCluster2" source="Left_HandMiddle_01_JNT" shape="bodyShape" layer="81" defaultValue="0.000" size="36" max="2727">
+    <point index="1271" value="0.883"/>
+    <point index="1272" value="0.866"/>
+    <point index="1273" value="0.951"/>
+    <point index="1274" value="0.972"/>
+    <point index="1275" value="0.418"/>
+    <point index="1276" value="0.388"/>
+    <point index="1277" value="0.055"/>
+    <point index="1280" value="0.248"/>
+    <point index="1281" value="0.053"/>
+    <point index="1282" value="0.450"/>
+    <point index="1283" value="0.454"/>
+    <point index="1284" value="0.379"/>
+    <point index="1285" value="0.029"/>
+    <point index="1286" value="0.286"/>
+    <point index="1304" value="0.003"/>
+    <point index="1410" value="0.002"/>
+    <point index="1411" value="0.081"/>
+    <point index="1605" value="0.062"/>
+    <point index="1606" value="0.063"/>
+    <point index="1608" value="0.325"/>
+    <point index="1624" value="0.266"/>
+    <point index="1630" value="0.796"/>
+    <point index="1632" value="0.111"/>
+    <point index="1633" value="0.255"/>
+    <point index="1634" value="0.074"/>
+    <point index="1635" value="0.863"/>
+    <point index="2402" value="0.064"/>
+    <point index="2403" value="0.823"/>
+    <point index="2404" value="0.910"/>
+    <point index="2405" value="1.000"/>
+    <point index="2501" value="0.355"/>
+    <point index="2655" value="0.587"/>
+    <point index="2656" value="0.775"/>
+    <point index="2658" value="0.120"/>
+    <point index="2659" value="0.277"/>
+    <point index="2727" value="0.603"/>
+  </weights>
   <weights deformer="skinCluster2" source="Left_HandIndex_03_JNT" shape="bodyShape" layer="82" defaultValue="0.000" size="36" max="2741">
     <point index="1422" value="0.167"/>
     <point index="1423" value="0.174"/>
@@ -11956,7 +12105,9 @@
     <point index="2740" value="0.966"/>
     <point index="2741" value="1.000"/>
   </weights>
-  <weights deformer="skinCluster2" source="Left_HandIndex_02_JNT" shape="bodyShape" layer="83" defaultValue="0.000" size="39" max="2740">
+  <weights deformer="skinCluster2" source="Left_HandIndex_02_JNT" shape="bodyShape" layer="83" defaultValue="0.000" size="41" max="2740">
+    <point index="1410" value="0.003"/>
+    <point index="1411" value="0.005"/>
     <point index="1414" value="0.113"/>
     <point index="1415" value="0.497"/>
     <point index="1416" value="0.115"/>
@@ -11997,17 +12148,23 @@
     <point index="2728" value="0.259"/>
     <point index="2740" value="0.034"/>
   </weights>
-  <weights deformer="skinCluster2" source="Left_HandIndex_01_JNT" shape="bodyShape" layer="84" defaultValue="0.000" size="38" max="2726">
+  <weights deformer="skinCluster2" source="Left_HandIndex_01_JNT" shape="bodyShape" layer="84" defaultValue="0.000" size="47" max="2727">
+    <point index="1273" value="0.012"/>
+    <point index="1277" value="0.064"/>
     <point index="1278" value="0.141"/>
-    <point index="1280" value="0.316"/>
-    <point index="1281" value="0.422"/>
+    <point index="1280" value="0.336"/>
+    <point index="1281" value="0.399"/>
+    <point index="1282" value="0.023"/>
+    <point index="1283" value="0.006"/>
+    <point index="1284" value="0.001"/>
+    <point index="1285" value="0.003"/>
     <point index="1404" value="0.008"/>
     <point index="1406" value="0.308"/>
     <point index="1407" value="0.314"/>
     <point index="1408" value="0.316"/>
     <point index="1409" value="0.394"/>
-    <point index="1410" value="0.702"/>
-    <point index="1411" value="0.912"/>
+    <point index="1410" value="0.697"/>
+    <point index="1411" value="0.796"/>
     <point index="1412" value="0.760"/>
     <point index="1413" value="0.963"/>
     <point index="1414" value="0.887"/>
@@ -12020,7 +12177,7 @@
     <point index="1421" value="0.164"/>
     <point index="1441" value="0.007"/>
     <point index="1442" value="0.251"/>
-    <point index="1624" value="0.035"/>
+    <point index="1624" value="0.130"/>
     <point index="1625" value="0.300"/>
     <point index="1626" value="0.009"/>
     <point index="1627" value="0.290"/>
@@ -12029,13 +12186,16 @@
     <point index="1641" value="0.540"/>
     <point index="2400" value="0.974"/>
     <point index="2401" value="0.456"/>
+    <point index="2404" value="0.063"/>
     <point index="2414" value="0.238"/>
     <point index="2415" value="0.002"/>
     <point index="2416" value="0.900"/>
+    <point index="2652" value="0.006"/>
     <point index="2653" value="0.299"/>
     <point index="2654" value="0.467"/>
-    <point index="2655" value="0.036"/>
+    <point index="2655" value="0.258"/>
     <point index="2726" value="0.727"/>
+    <point index="2727" value="0.056"/>
   </weights>
   <weights deformer="skinCluster2" source="Left_Elbow_secondary3_JNT" shape="bodyShape" layer="85" defaultValue="0.000" size="52" max="2690">
     <point index="1298" value="0.085"/>
@@ -12521,14 +12681,14 @@
     <point index="1484" value="0.826"/>
     <point index="1485" value="0.591"/>
     <point index="1486" value="0.842"/>
-    <point index="1487" value="0.778"/>
+    <point index="1487" value="0.777"/>
     <point index="1488" value="0.902"/>
     <point index="1489" value="0.905"/>
     <point index="1490" value="0.339"/>
     <point index="1491" value="0.121"/>
     <point index="1492" value="0.034"/>
     <point index="1493" value="0.684"/>
-    <point index="1494" value="0.718"/>
+    <point index="1494" value="0.717"/>
     <point index="1495" value="0.670"/>
     <point index="1496" value="0.898"/>
     <point index="1497" value="0.636"/>
@@ -12601,7 +12761,7 @@
     <point index="1586" value="0.951"/>
     <point index="1587" value="0.914"/>
     <point index="1588" value="0.982"/>
-    <point index="1589" value="0.848"/>
+    <point index="1589" value="0.847"/>
     <point index="1590" value="0.667"/>
     <point index="1591" value="0.668"/>
     <point index="1592" value="0.797"/>
