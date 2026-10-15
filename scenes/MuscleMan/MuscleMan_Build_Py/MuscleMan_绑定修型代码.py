@@ -159,31 +159,87 @@ def get_drive_data_from_maya(drive_ctrl,drive_joint,driven_joint_list,axis = 'rz
 
 
 #添加驱动数据到csv
-drive_ctrl = 'Right_Hip_fk_CTRL'
-drive_joint = 'Right_Hip_JNT'
-driven_joint_list = cmds.ls(sl=1)
 
+side_list = ['Left_', 'Right_']
 
-frames = cmds.keyframe(drive_ctrl, query=True, timeChange=True)
-if frames:
-    frames = sorted(set(frames))
-
-
-for frame in frames:
-    cmds.currentTime(frame)
-
-    new_entry=get_drive_data_from_maya(drive_ctrl,drive_joint,driven_joint_list,axis = 'front_angle')
-    for i in new_entry:
-        append_row_to_csv(r'E:\UE_Project\MyWorld_Maya\scenes\MuscleMan\guide\MuscleMan_绑定修型数据.csv', i)
+drive_ctrl_name = 'Wrist_fk_CTRL'
+drive_joint_name = 'Wrist_JNT'
 
 
 
-new_entry=get_drive_data_from_maya(drive_ctrl,drive_joint,driven_joint_list,axis = 'angle')
-for i in new_entry:
-    append_row_to_csv(r'E:\UE_Project\MyWorld_Maya\scenes\MuscleMan\guide\MuscleMan_绑定修型数据_Hip.csv', i)
+Left_driven_joint_list = cmds.ls(sl=1)
+
+Right_driven_joint_list = cmds.ls(sl=1)
+
+#driven_joint_list = cmds.ls(sl=1)
+
+
+
+
+
+#单轴驱动数据
+for side in side_list:
+
+    drive_ctrl = side + drive_ctrl_name
+    drive_joint = side + drive_joint_name
+
+    # 获取驱动控制器的关键帧时间
+    frames = cmds.keyframe(drive_ctrl, query=True, timeChange=True)
+    if frames:
+        frames = sorted(set(frames))
+
+
+    if side == 'Left_':
+        driven_joint_list = Left_driven_joint_list
+    else:   
+        driven_joint_list = Right_driven_joint_list
+
+    for frame in frames:
+        cmds.currentTime(frame)
+
+        new_entry=get_drive_data_from_maya(drive_ctrl,drive_joint,driven_joint_list,axis = 'angle')
+        for i in new_entry:
+            append_row_to_csv(r'E:\UE_Project\MyWorld_Maya\scenes\MuscleMan\guide\MuscleMan_绑定修型数据.csv', i)
+
+
+
+#多轴驱动数据
+
+for side in side_list:
+
+    drive_ctrl = side + drive_ctrl_name
+    drive_joint = side + drive_joint_name
     
-angle
-front_angle
+    # 获取驱动控制器的关键帧时间
+    frames = cmds.keyframe(drive_ctrl, query=True, timeChange=True)
+    if frames:
+        frames = sorted(set(frames))
+
+
+    if side == 'Left_':
+        driven_joint_list = Left_driven_joint_list
+    else:   
+        driven_joint_list = Right_driven_joint_list
+
+    for frame in frames:
+        cmds.currentTime(frame)
+
+        if frame == frames[0]:
+            # 第一帧：两个轴都采
+            for axis in ['ry', 'rz']:
+                new_entry = get_drive_data_from_maya(drive_ctrl, drive_joint, driven_joint_list, axis=axis)
+                for i in new_entry:
+                    append_row_to_csv(r'E:\UE_Project\MyWorld_Maya\scenes\MuscleMan\guide\MuscleMan_绑定修型数据_Wrist.csv', i)
+        else:
+            if frame < 90:
+                axis = 'ry'
+            else:
+                print(frame)
+                axis = 'rz'
+
+            new_entry = get_drive_data_from_maya(drive_ctrl, drive_joint, driven_joint_list, axis=axis)
+            for i in new_entry:
+                append_row_to_csv(r'E:\UE_Project\MyWorld_Maya\scenes\MuscleMan\guide\MuscleMan_绑定修型数据_Wrist.csv', i)
 
 
 
@@ -248,7 +304,7 @@ def parse_tuple(text):
 # ========== 使用示例 ==========
 
 # 1. 从 CSV 读取所有数据
-csv_path = r'E:\UE_Project\MyWorld_Maya\scenes\MuscleMan\guide\MuscleMan_绑定修型数据_Hip.csv'
+csv_path = r'E:\UE_Project\MyWorld_Maya\scenes\MuscleMan\guide\MuscleMan_绑定修型数据_Wrist.csv'
 all_data = load_csv_to_dict_list(csv_path)
 
 
